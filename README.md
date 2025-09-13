@@ -1,10 +1,10 @@
-# Banana Quality Classifier 🥇
+# Banana Quality Classifier
 
 **Winner of Kaggle Competition - 1st Place out of 66 Teams**
 
 A machine learning project that classifies banana quality using various physical characteristics. This project uses Support Vector Machine (SVM) with feature selection to achieve high accuracy in distinguishing between good and bad quality bananas.
 
-🏆 **Competition Results**: Achieved 1st place in the [DAT-200 CA-3 2025 Kaggle Competition](https://www.kaggle.com/competitions/dat-200-ca-3-2025) with a score of 0.98906, competing against 65 other teams.
+**Competition Results**: Achieved 1st place in the [DAT-200 CA-3 2025 Kaggle Competition](https://www.kaggle.com/competitions/dat-200-ca-3-2025) with a score of 0.98906, competing against 65 other teams.
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ The dataset contains banana quality measurements with the following features:
 - **Hyperparameter Tuning**: Grid search over C and gamma parameters
 
 ### Model Performance
-- **🥇 Competition Winning Score**: 0.98906 (1st place out of 66 teams)
+- **Competition Winning Score**: 0.98906 (1st place out of 66 teams)
 - **Reproduced Score**: 0.98541
 - **Selected Features**: Automatically determined through sequential selection
 - **Algorithm**: Support Vector Machine with RBF kernel and sequential feature selection
@@ -182,7 +182,7 @@ ca3_banana_quality_classifier/
 
 ## Competition Link
 
-🔗 **Official Competition**: [DAT-200 CA-3 2025 on Kaggle](https://www.kaggle.com/competitions/dat-200-ca-3-2025)
+**Official Competition**: [DAT-200 CA-3 2025 on Kaggle](https://www.kaggle.com/competitions/dat-200-ca-3-2025)
 
 ## License
 
